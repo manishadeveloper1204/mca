@@ -1,0 +1,15 @@
+.nav-link {
+	color: navy !important; /* //user defined */
+	font-size: 1rem !important;
+	font-family: Comic Sans Ms;
+}
+
+.dropdown-item {
+	color: red !important;
+	font-size: 1rem !important;
+	font-family: Comic Sans Ms;
+}
+
+.dropdown-item:hover {
+	background-color: black;
+}
